@@ -1,0 +1,220 @@
+Jun  2 19:02:48: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet
+0/15, changed state to up
+Jun  3 09:49:12: %SEC-6-IPACCESSLOGS: list 27 permitted 175.196.76.38 2 packets
+Jun  7 09:47:38: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:47:42: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:48:01: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 09:48:12: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:48:27: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 09:48:42: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:48:57: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 09:49:12: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:49:33: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:49:44: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 09:49:57: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:50:13: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:50:28: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:50:43: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 09:50:58: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 09:51:13: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:51:28: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 09:51:43: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:51:58: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:52:13: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:52:28: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 09:52:44: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:53:04: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:53:14: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 09:53:29: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:53:45: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:54:00: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:54:15: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:54:31: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:54:47: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:55:00: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:55:16: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 09:55:31: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:55:50: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:56:11: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:56:24: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:56:31: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:56:49: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:57:08: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:57:20: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:57:40: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:57:46: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:58:01: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:58:17: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:58:31: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:58:46: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:59:02: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:59:16: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:59:32: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 09:59:47: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:00:02: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:00:17: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:00:33: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:00:48: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:01:37: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:02:11: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:02:21: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:14:51: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:14:52: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:15:07: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:15:23: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:15:38: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:15:53: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:16:08: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:16:23: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:16:38: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:16:53: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:17:09: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:17:25: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:17:39: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:17:54: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:18:09: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:18:24: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:18:39: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:18:54: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:19:09: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:19:24: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:19:39: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:19:55: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:20:09: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:20:25: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:20:41: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:20:55: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:21:10: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:21:27: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:21:54: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:22:05: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:22:11: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:22:39: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:22:43: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:23:45: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:24:31: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:25:04: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:25:12: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:25:30: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:25:42: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:25:58: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:26:12: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+Jun  7 10:26:27: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:26:42: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/22 and port Gi0/9
+Jun  7 10:27:02: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is flap
+ping between port Gi0/9 and port Gi0/22
+.Jun  7 10:27:18: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is fla
+pping between port Gi0/9 and port Gi0/22
+.Jun  7 10:27:28: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is fla
+pping between port Gi0/9 and port Gi0/22
+.Jun  7 10:28:35: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is fla
+pping between port Gi0/9 and port Gi0/22
+.Jun  7 10:29:40: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is fla
+pping between port Gi0/9 and port Gi0/22
+.Jun  7 10:29:50: %SW_MATM-4-MACFLAP_NOTIF: Host 0010.dbff.2050 in vlan 1 is fla
+pping between port Gi0/9 and port Gi0/22
+Jun  7 11:00:48: %SEC-6-IPACCESSLOGS: list 27 permitted 112.171.15.204 2 packets
+Jun  7 11:02:57: %SYS-5-CONFIG_I: Configured from console by root on vty0 (112.1
+71.15.204)
+Jun  7 12:12:49: %SEC-6-IPACCESSLOGS: list 27 permitted 112.171.15.204 2 packets
+ADIDAS_L2_EXT#show log
